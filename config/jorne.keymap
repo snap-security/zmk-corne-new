@@ -106,7 +106,7 @@
             bindings = <
 &none  &kp LG(GRAVE)   &trans                  &trans             &kp LG(C)  &kp LG(V)  &kp LG(X)        &kp GRAVE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans  &kp DEL          &none
        &kp RG(LS(N4))  &trans                  &trans             &trans     &kp HOME   &kp PAGE_UP      &kp N6     &kp N7            &kp N8             &kp N9         &kp N0  &mt UNDER MINUS
-       &kp LEFT_SHIFT  &kp LS(LA(LEFT_ARROW))  &kp LS(LA(RIGHT))  &trans     &kp END    &kp PAGE_DOWN    &kp N1     &kp N2            &kp N3             &kp N4         &kp N5  &mt PLUS EQUAL
+       &kp LEFT_SHIFT  &kp LA(LG(LEFT_ARROW))  &kp LA(LG(RIGHT))  &trans     &kp END    &kp PAGE_DOWN    &kp N1     &kp N2            &kp N3             &kp N4         &kp N5  &mt PLUS EQUAL
                                                                   &trans     &trans     &trans           &trans     &trans            &trans
             >;
         };
