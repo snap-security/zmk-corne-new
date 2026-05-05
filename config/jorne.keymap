@@ -104,7 +104,7 @@
 
         L1 {
             bindings = <
-&none  &kp LG(GRAVE)   &kp NUMBER_1            &kp NUMBER_2       &kp NUMBER_3  &kp NUMBER_4  &kp N5           &kp NUMBER_6      &kp N7             &kp N8         &kp N9                &kp N0          &kp DEL  &none
+&none  &kp GRAVE       &kp NUMBER_1            &kp NUMBER_2       &kp NUMBER_3  &kp NUMBER_4  &kp N5           &kp NUMBER_6      &kp N7             &kp N8         &kp N9                &kp N0          &kp DEL  &none
        &kp RG(LS(N4))  &kp LG(C)               &kp LG(V)          &kp LG(X)     &trans        &kp PAGE_UP      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH  &mt UNDERSCORE MINUS  &mt PLUS EQUAL  &trans
        &kp LEFT_SHIFT  &kp LA(LG(LEFT_ARROW))  &kp LA(LG(RIGHT))  &trans        &trans        &kp PAGE_DOWN    &kp HOME          &kp END            &trans         &trans                &trans          &trans
                                                                   &trans        &trans        &trans           &trans            &trans             &trans
